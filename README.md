@@ -4,7 +4,7 @@
 
 The primary objective of this project is to analyze and visualize the on-time performance of JetBlue Airways and compare it with Alaska Airlines using data from the Bureau of Transportation Statistics (BTS). By creating an interactive dashboard and story in Tableau, this project provides a comprehensive visual overview of key performance metrics, patterns, and comparisons. The final deliverable highlights JetBlue's on-time performance and its comparison with Alaska Airlines.
 
-**Tableau Link:** `https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link`
+**Tableau Link:** [https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 **Dataset**
 
