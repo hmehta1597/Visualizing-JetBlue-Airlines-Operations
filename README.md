@@ -20,20 +20,27 @@ The dataset for this project is sourced from the Bureau of Transportation Statis
 1)Data Procurement and Preparation:
 
 -Collected 12 monthly datasets from the BTS website, covering January 2023 to December 2023.
+
 -Utilized additional lookup tables from BTS for comprehensive data analysis.
+
 -Staged and managed data using Python before importing it into Tableau.
 
 2)Visualization Goals:
 
 -Created visualizations that depict the on-time performance of JetBlue Airways.
+
 -Focused on departure delays as the primary metric.
+
 -Illustrated patterns or associations between different metrics that affect on-time performance.
+
 -Identified and visualized Alaska Airlines as the closest competitor, comparing key performance metrics.
 
 3)Tools and Techniques:
 
 -Used Tableau for creating interactive dashboards and stories.
+
 -Employed higher-order visual devices to clearly depict high-dimensional information.
+
 -Incorporated time and geography dimensions in the visualizations to enhance the storytelling aspect.
 
 
