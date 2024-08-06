@@ -6,13 +6,13 @@ The primary objective of this project is to analyze and visualize the on-time pe
 
 The goal is to provide actionable insights into JetBlue's and Alaska Airlines' performance, helping stakeholders make informed decisions based on visual data analysis.
 
-**Tableau Link:** [https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+**Tableau Link:** https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Dataset**
 
 The dataset for this project is sourced from the Bureau of Transportation Statistics (BTS) and includes detailed flight performance data for commercial domestic flights in the United States. The data covers the period from January 2023 to December 2023 and includes information on scheduled and actual flight times, departure and arrival delays, delay causes, and cancellations. The dataset can be accessed from the below link:
 
-[https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr]
+https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr
 
 
 **Key Components**
