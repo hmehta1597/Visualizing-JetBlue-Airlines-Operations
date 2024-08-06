@@ -54,7 +54,6 @@ https://transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvz
 
 **Geographical Distribution:** Maps showing performance metrics at different airports.
 
-The goal is to provide actionable insights into JetBlue's and Alaska Airlines' performance, helping stakeholders make informed decisions based on visual data analysis.
-
 **Competitor Comparison:** Side-by-side comparisons of key performance metrics between JetBlue and Alaska Airlines.
 
+The goal is to provide actionable insights into JetBlue's and Alaska Airlines' performance, helping stakeholders make informed decisions based on visual data analysis.
