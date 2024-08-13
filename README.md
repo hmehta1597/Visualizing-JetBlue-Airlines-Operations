@@ -6,7 +6,7 @@ The primary objective of this project is to analyze and visualize the on-time pe
 
 The goal is to provide actionable insights into JetBlue's and Alaska Airlines' performance, helping stakeholders make informed decisions based on visual data analysis.
 
-**Tableau Link:** https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Tableau Link:** [https://public.tableau.com/views/JetBlue_Operations/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/harsh.mehta5638/viz/VisualizingJetBlueOperations/Story1)
 
 **Dataset**
 
